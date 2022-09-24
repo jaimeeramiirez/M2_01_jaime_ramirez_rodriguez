@@ -27,6 +27,14 @@ apellido= " Ramírez"
 print(var_nombre + apellido)
 print(var_nombre+ apellido + ".")
 print(var_nombre*3)
+print("\n")
+
+nombreCompleto= "JAIME RAMÍREZ"
+print (nombreCompleto [5:13])
+
+
+
+
 
 
 
