@@ -20,6 +20,13 @@ one= True
 two= False
 print(one)
 print(type(one))
+print("\n\n")
+
+var_nombre= " Jaime"
+apellido= " Ramírez"
+print(var_nombre + apellido)
+print(var_nombre+ apellido + ".")
+print(var_nombre*3)
 
 
 
